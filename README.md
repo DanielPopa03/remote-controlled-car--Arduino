@@ -4,27 +4,42 @@ via Bluetooth using an HC-05 module. The remote control is built using an Arduin
 
 Features
 Wireless Control: Bluetooth communication enables seamless wireless operation.
+
 Joystick Navigation: Intuitive control of car movement using a joystick.
+
 Multi-Motor Drive: Four motors provide stability and maneuverability.
+
 Modular Design: Separate units for the car and the remote control for ease of maintenance and upgrades.
+
 Components
+
 Car Unit
+
 1x Arduino Uno
+
 1x HC-05 Bluetooth Module
+
 4x DC Motors (or geared motors)
+
 1x Motor Driver Module (L298N or equivalent)
 Power Supply (e.g., battery pack for motors and Arduino)
-Remote Control Unit
+Remote Control Unit'
+
 1x Arduino Nano
+
 1x HC-05 Bluetooth Module
+
 1x Joystick Module
+
 Power Supply (e.g., battery pack or USB power for Nano)
 
 Laboratoare Incluse:
-Laboratorul 0 - Debouncing
-Timere -PWM
-Intreruperi
+
+Laboratorul 0 - Debouncing, 
+Timere -PWM, 
+Intreruperi, 
 USART - serial pt modulul de HC-05
 
 
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/16e37f5a-c170-4c0d-a48a-f2a9972e3a11)
+![da drawio](https://github.com/user-attachments/assets/ba46bee0-4e1b-4eda-b60d-caa85a0d1365)
+
