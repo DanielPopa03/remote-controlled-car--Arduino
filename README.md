@@ -1,8 +1,8 @@
-Remote Control Car Using Arduino Uno and HC-05 Bluetooth Modules
+# Remote Control Car Using Arduino Uno and HC-05 Bluetooth Modules
 This project showcases a remote-controlled car powered by an Arduino Uno. The car is driven by four motors and controlled wirelessly 
 via Bluetooth using an HC-05 module. The remote control is built using an Arduino Nano, a joystick, and another HC-05 Bluetooth module.
 
-Features
+### Features
 Wireless Control: Bluetooth communication enables seamless wireless operation.
 
 Joystick Navigation: Intuitive control of car movement using a joystick.
@@ -11,7 +11,7 @@ Multi-Motor Drive: Four motors provide stability and maneuverability.
 
 Modular Design: Separate units for the car and the remote control for ease of maintenance and upgrades.
 
-Components
+### Components
 
 Car Unit
 
@@ -33,7 +33,7 @@ Remote Control Unit'
 
 Power Supply (e.g., battery pack or USB power for Nano)
 
-Laboratoare Incluse:
+### Laboratoare Incluse:
 
 Laboratorul 0 - Debouncing, 
 Timere -PWM, 
