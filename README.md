@@ -101,7 +101,8 @@ Rezistențe:
 
 Divizorul de tensiune (1 kΩ și 2 kΩ) protejează pinul RX al HC-05 de tensiunea de 5V.
 
-![da drawio](https://github.com/user-attachments/assets/ba46bee0-4e1b-4eda-b60d-caa85a0d1365)
+![image](https://github.com/user-attachments/assets/301c5a54-4ad2-4255-8a60-ff5edc6547e3)
+
 
 ![Untitled-1](https://github.com/user-attachments/assets/578c5c6f-dabf-4f33-9b2c-88b621720a55)
 
