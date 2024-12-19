@@ -90,14 +90,14 @@ Pini Arduino
 
 | **Pin**                  | **Conectat la**             | **Funcție**                                     |
 |--------------------------|-----------------------------|-------------------------------------------------|
-| leftMotor1Foward (D2)    | Driver L9110S IN1           | Control motor stânga 1 - direcție înainte       |
-| leftMotor1Back (D3)      | Driver L9110S IN2           | Control motor stânga 1 - direcție înapoi        |
-| leftMotor2Foward (D6)    | Driver L9110S IN3           | Control motor stânga 2 - direcție înainte       |
-| leftMotor2Back (D7)      | Driver L9110S IN4           | Control motor stânga 2 - direcție înapoi        |
-| rightMotor1Foward (D4)   | Driver L9110S IN5           | Control motor dreapta 1 - direcție înainte      |
-| rightMotor1Back (D5)     | Driver L9110S IN6           | Control motor dreapta 1 - direcție înapoi       |
-| rightMotor2Foward (D8)   | Driver L9110S IN7           | Control motor dreapta 2 - direcție înainte      |
-| rightMotor2Back (D9)     | Driver L9110S IN8           | Control motor dreapta 2 - direcție înapoi       |
+| leftMotor1Foward (D2)    | Driver L9110S D1           | Control motor stânga 1 - direcție înainte       |
+| leftMotor1Back (D3)      | Driver L9110S D2           | Control motor stânga 1 - direcție înapoi        |
+| leftMotor2Foward (D6)    | Driver L9110S B1           | Control motor stânga 2 - direcție înainte       |
+| leftMotor2Back (D7)      | Driver L9110S B2           | Control motor stânga 2 - direcție înapoi        |
+| rightMotor1Foward (D4)   | Driver L9110S C1           | Control motor dreapta 1 - direcție înainte      |
+| rightMotor1Back (D5)     | Driver L9110S C2          | Control motor dreapta 1 - direcție înapoi       |
+| rightMotor2Foward (D8)   | Driver L9110S A1           | Control motor dreapta 2 - direcție înainte      |
+| rightMotor2Back (D9)     | Driver L9110S A2           | Control motor dreapta 2 - direcție înapoi       |
 | stateBluetooth (D10)     | HC-05 State Pin             | Detectarea conexiunii Bluetooth                 |
 | txdBluetooth (D11)       | HC-05 RX                   | Transmiterea datelor către modulul Bluetooth HC-05 |
 | rxdBluetooth (D12)       | HC-05 TX                   | Recepționarea datelor de la HC-05               |
