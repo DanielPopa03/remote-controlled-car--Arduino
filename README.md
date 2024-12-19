@@ -54,9 +54,9 @@ Milestone 2
 | Motoare cu roți           | 4             | Din Laborator                                                                                            |
 | Rezistențe 1 kΩ           | 2             | Din Laborator                                                                                            |
 | Rezistențe 2 kΩ           | 2             | Din Laborator                                                                                            |
-| 4 Baterii AA              | 1             | Din Laborator                                                                                            |
-| Baterie 9V                | 1             | Din Laborator                                                                                            |
-| 4 AA holder               | 1             | Din Laborator              
+| 4 Baterii AA              | 1             | Cumparate                                                                                              |
+| Baterie 9V                | 1             | Cumparate                                                                                               |
+| 4 AA holder               | 1             | Cumparat              
 
 
 
