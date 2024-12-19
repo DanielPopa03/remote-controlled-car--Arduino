@@ -40,6 +40,53 @@ Timere -PWM,
 Intreruperi, 
 USART - serial pt modulul de HC-05
 
+Milestone 2
+
+Componentă	Cantitate	Link/Datasheet
+Arduino Uno	1	Din Laborator
+Arduino Nano	1	Din Laborator
+Modul Driver L9110S	1	L9110S Motor Driver
+HC-05 Bluetooth Module	2	Din Laborator
+Joystick	1	Joystick Module
+Motoare cu roți	4	Din Laborator
+Rezistențe 1 kΩ	2	Din Laborator
+Rezistențe 2 kΩ	2	Din Laborator
+4 Baterii AA
+1 Baterie 9V
+4 AA holder
+9V battery holder
+
+Descriere Funcționalitate Hardware
+Arduino Uno:
+
+Role: Control principal pentru motoare.
+Conectat la HC-05 și Motor Driver.
+Utilizează pinii D3, D5, D6, D9 pentru control PWM al driverului de motoare.
+Arduino Nano:
+
+Role: Interfața utilizatorului, preluând comenzi de la joystick.
+Comunică cu HC-05 pentru a transmite datele către Uno.
+HC-05 Bluetooth Modules:
+
+Un modul este pereche cu Nano și celălalt cu Uno pentru comunicare wireless.
+Alimentare de 3.3V pentru siguranță.
+Joystick:
+
+Utilizat pentru a controla mișcarea vehiculului.
+Axele X și Y generează tensiuni analogice interpretate de Nano.
+Driverul de Motoare L9110S:
+
+Controlează motoarele pe baza semnalelor PWM primite de la Uno.
+Protecție integrată la supraîncălzire.
+Rezistențe:
+
+Divizorul de tensiune (1 kΩ și 2 kΩ) protejează pinul RX al HC-05 de tensiunea de 5V.
 
 ![da drawio](https://github.com/user-attachments/assets/ba46bee0-4e1b-4eda-b60d-caa85a0d1365)
+
+![Untitled-1](https://github.com/user-attachments/assets/578c5c6f-dabf-4f33-9b2c-88b621720a55)
+
+
+![Untitled-2](https://github.com/user-attachments/assets/013f9625-f279-495e-bda3-a06927e7652d)
+
 
