@@ -42,19 +42,23 @@ USART - serial pt modulul de HC-05
 
 Milestone 2
 
-Componentă	Cantitate	Link/Datasheet
-Arduino Uno	1	Din Laborator
-Arduino Nano	1	Din Laborator
-Modul Driver L9110S	1	L9110S Motor Driver
-HC-05 Bluetooth Module	2	Din Laborator
-Joystick	1	Joystick Module
-Motoare cu roți	4	Din Laborator
-Rezistențe 1 kΩ	2	Din Laborator
-Rezistențe 2 kΩ	2	Din Laborator
-4 Baterii AA
-1 Baterie 9V
-4 AA holder
-9V battery holder
++------------------------+-----------+-----------------------------------------------+
+| Componentă             | Cantitate | Link/Datasheet                               |
++------------------------+-----------+-----------------------------------------------+
+| Arduino Uno            | 1         | Din Laborator                                |
+| Arduino Nano           | 1         | Din Laborator                                |
+| Modul Driver L9110S    | 1         | [L9110S Motor Driver](https://www.optimusdigital.ro/ro/drivere-de-motoare-cu-perii/8246-modul-driver.html) |
+| HC-05 Bluetooth Module | 2         | Din Laborator                                |
+| Joystick               | 1         | [Joystick Module]                            |
+| Motoare cu roți        | 4         | Din Laborator                                |
+| Rezistențe 1 kΩ        | 2         | Din Laborator                                |
+| Rezistențe 2 kΩ        | 2         | Din Laborator                                |
+| 4 Baterii AA           | 1         | Cumparat                                     |
+| Baterie 9V             | 1         | Cumparat                                     |
+| 4 AA holder            | 1         |  Cumparat                                    |
+| 9V battery holder      | 1         |  Cumparat                                    |
++------------------------+-----------+-----------------------------------------------+
+
 
 Descriere Funcționalitate Hardware
 Arduino Uno:
