@@ -127,6 +127,11 @@ Pini Nano
 | VRX_PIN (A0)  | Joystick Axă X             | Citire poziție joystick - direcție orizontală |
 | VRY_PIN (A1)  | Joystick Axă Y             | Citire poziție joystick - direcție verticală |
 
+![schemaMasina](https://github.com/user-attachments/assets/82179c45-614b-4717-985f-5db7f53d376d)
+
+Schema electrică rămâne aproape la fel, numai că uni din pini au fost schimbati (vezi tabel Pini Nano)
+![Untitled-2](https://github.com/user-attachments/assets/756bb7f3-4a97-4569-a215-b38d546a3092)
+
 
 https://github.com/user-attachments/assets/7850d1cc-df6f-4007-b0ef-c2babf746db3
 
