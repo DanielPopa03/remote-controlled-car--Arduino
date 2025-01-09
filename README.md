@@ -11,6 +11,17 @@ Multi-Motor Drive: Four motors provide stability and maneuverability.
 
 Modular Design: Separate units for the car and the remote control for ease of maintenance and upgrades.
 
+###Video
+
+https://github.com/user-attachments/assets/9dd132e5-4b86-436c-b303-646866f958a5
+
+
+
+https://github.com/user-attachments/assets/452cddff-55b8-4d2d-a3f4-6021f6f6540f
+
+
+
+
 ### Components
 
 Car Unit
