@@ -22,7 +22,11 @@ Car Unit
 4x DC Motors (or geared motors)
 
 1x Motor Driver Module (L298N or equivalent)
-Power Supply (e.g., battery pack for motors and Arduino)
+
+4x AA battery
+
+1x 9V Battery
+
 Remote Control Unit'
 
 1x Arduino Nano
@@ -31,7 +35,7 @@ Remote Control Unit'
 
 1x Joystick Module
 
-Power Supply (e.g., battery pack or USB power for Nano)
+1x 9V Battery
 
 ### Laboratoare Incluse:
 
