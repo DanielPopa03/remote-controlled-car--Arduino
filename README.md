@@ -13,6 +13,7 @@ Modular Design: Separate units for the car and the remote control for ease of ma
 
 ### Video
 In this video, the car's response time is demonstrated to be nearly instantaneous.
+
 https://github.com/user-attachments/assets/9dd132e5-4b86-436c-b303-646866f958a5
 
 You can clearly observe the car responding promptly to input commands, moving forward, backward, and to the right with precision. This effectively showcases the car's ability to execute commands smoothly and perform movements accurately and efficiently.
